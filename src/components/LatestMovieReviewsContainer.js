@@ -12,6 +12,10 @@ class LatestMovieReviewsContainer extends Component {
     reviews: [];
   }
   
+  componentDidMount() {
+    
+  }
+  
   render() {
     return <div></div>
   }
