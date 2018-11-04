@@ -20,7 +20,8 @@ class LatestMovieReviewsContainer extends Component {
   
   render() {
     return (<div className="latest-movie-reviews">
-    
+              <h2>Latest Movies:</h2>
+              < MovieReviews />
             </div>)
   }
 }
