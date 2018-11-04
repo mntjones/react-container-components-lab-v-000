@@ -19,7 +19,9 @@ class LatestMovieReviewsContainer extends Component {
   }
   
   render() {
-    return (<div className="latest-movie-reviews"></div>)
+    return (<div className="latest-movie-reviews">
+    
+            </div>)
   }
 }
 
