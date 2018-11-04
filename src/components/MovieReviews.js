@@ -4,8 +4,8 @@ import React from 'react';
 const MovieReviews = ({ reviews }) => {
   <div className="review-list">
     <ul>
-    <img src={ img_url } />
-    <h3>{ title }</h3>
+    <imgitle }</h3> src={ img_url } />
+    <h3>{ t
     </ul>
   </div>
 }
